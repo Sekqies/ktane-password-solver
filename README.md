@@ -30,6 +30,7 @@ It will show you all possible words starting with this. If you add that the four
 <img width="1255" height="468" alt="image" src="https://github.com/user-attachments/assets/2cb7e8f1-f6eb-4947-a682-3b444a078b45" />
 Then, whoever is playing with you can input one of the possible passwords:
 <img width="496" height="463" alt="image" src="https://github.com/user-attachments/assets/c490a3e6-1141-491e-ac92-4a3c81adf8b0" />
+
 This confirms one of the words, "Acesa" ("ON" in portuguese), is correct!
 
 If you want to clear the contents of each field, press the "Clear" button
